@@ -79,3 +79,4 @@ def generate_caption(prompt):
     text_prompt = f"""
     Write a calming Instagram caption for: {prompt}
     Add 8 relevant hashtag
+
